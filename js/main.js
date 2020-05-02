@@ -1,4 +1,4 @@
-import Square from './square.js';
+import Square from '/js/square.js';
 
 const canvas = document.getElementById('canvas');
 const context = canvas.getContext('2d');
